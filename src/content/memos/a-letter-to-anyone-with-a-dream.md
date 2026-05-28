@@ -3,6 +3,8 @@ title: "A Letter to Anyone With A Dream"
 description: "You cannot be common and cutting edge at the same time."
 pubDate: 2024-06-21
 substackUrl: "https://tutuadetunmbi.substack.com/p/a-letter-to-anyone-with-a-dream"
+cover: "https://substackcdn.com/image/fetch/$s_!-rKX!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1480d49a-d9b9-4d40-8f21-75fddd7bfe86_800x800.png"
+coverAlt: "A Letter to Anyone With A Dream"
 ---
 
 You cannot be common and cutting edge at the same time.

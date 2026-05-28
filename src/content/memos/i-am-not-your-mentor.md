@@ -3,6 +3,8 @@ title: "i am not your mentor"
 description: "I don’t know if it’s just me, but the idea of mentorship has become… skewed."
 pubDate: 2025-03-21
 substackUrl: "https://tutuadetunmbi.substack.com/p/i-am-not-your-mentor"
+cover: "https://substackcdn.com/image/fetch/$s_!C1km!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43b15c65-43b8-4662-bf87-6b733d65d85e_800x800.png"
+coverAlt: "i am not your mentor"
 ---
 
 I don’t know if it’s just me, but the idea of mentorship has become… skewed.

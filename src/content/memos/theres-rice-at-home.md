@@ -3,6 +3,8 @@ title: "There's Rice at Home"
 description: "The Aroma of \"Enough\""
 pubDate: 2024-11-22
 substackUrl: "https://tutuadetunmbi.substack.com/p/theres-rice-at-home"
+cover: "https://substackcdn.com/image/fetch/$s_!TW55!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579d97ab-f5b0-4842-8f99-027f57239937_800x800.png"
+coverAlt: "There's Rice at Home"
 ---
 
 When you went out as a kid, or even now, let’s be honest…you probably know the drill. You’d spot something you wanted, whether it was pizza, ice cream, snacks, fried chicken, anything that caught your fancy and just as you were about to ask, your parents would give you *that look*…😒

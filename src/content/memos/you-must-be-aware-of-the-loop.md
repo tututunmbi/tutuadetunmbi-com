@@ -3,6 +3,8 @@ title: "You must be aware of the loop."
 description: "To break a cycle, you must first be aware of the loop…its rhythm, its trigger, its cost. Cycles are sneaky. They feel like habits, like comfort, like personali…"
 pubDate: 2025-05-28
 substackUrl: "https://tutuadetunmbi.substack.com/p/you-must-be-aware-of-the-loop"
+cover: "https://substackcdn.com/image/fetch/$s_!zFJU!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftutuadetunmbi.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1759202640%26version%3D9"
+coverAlt: "You must be aware of the loop."
 ---
 
 To break a cycle, you must first be aware of the loop…its rhythm, its trigger, its cost. Cycles are sneaky. They feel like habits, like comfort, like personality. But they're often prisons dressed as patterns. If you're not careful, you begin to normalize the very thing that's breaking you.

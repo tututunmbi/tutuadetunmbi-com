@@ -3,6 +3,8 @@ title: "The “New Phone, Old Operating System” Analogy"
 description: "What if all your dreams come true right now??"
 pubDate: 2024-05-10
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-new-phone-old-operating-system"
+cover: "https://substackcdn.com/image/fetch/$s_!z8e9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffef4563d-933f-4f48-acf8-b6ebd80aaec4_800x800.png"
+coverAlt: "The “New Phone, Old Operating System” Analogy"
 ---
 
 Be honest…. Are you truly a match for what you’re striving for? I did not ask if you were worthy of it, I am asking… if you got what you have always wanted, is who you currently are capable of managing that gift?

@@ -3,6 +3,8 @@ title: "\"So, How Are You Going to Bell the Cat?\""
 description: "There’s an old fable I think about often. Maybe you’ve heard it:"
 pubDate: 2025-06-18
 substackUrl: "https://tutuadetunmbi.substack.com/p/so-how-are-you-going-to-bell-the"
+cover: "https://substackcdn.com/image/fetch/$s_!wt_m!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe041c4bf-a273-4abc-a775-ed8424e73f72_1024x1024.heic"
+coverAlt: "So, How Are You Going to Bell the Cat?"
 ---
 
 There’s an old fable I think about often. Maybe you’ve heard it:

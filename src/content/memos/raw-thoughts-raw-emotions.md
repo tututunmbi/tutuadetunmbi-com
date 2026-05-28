@@ -3,6 +3,8 @@ title: "raw thoughts. raw emotions"
 description: "Having support has never really been a necessity for me in shaping who I was. I never had it and never felt entitled to it. I've always been a self-reliant per…"
 pubDate: 2024-08-16
 substackUrl: "https://tutuadetunmbi.substack.com/p/raw-thoughts-raw-emotions"
+cover: "https://substackcdn.com/image/fetch/$s_!vS24!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c701407-fb84-43a9-8f73-429b26afc2d1_800x800.png"
+coverAlt: "raw thoughts. raw emotions"
 ---
 
 Having support has never really been a necessity for me in shaping who I was. I never had it and never felt entitled to it. I've always been a self-reliant person and I never look at the circumstances of any situation from a place of victimization or stagnation. I see connections and meanings in every lived experience. It’s easy to reform and transform from that mentality.

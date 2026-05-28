@@ -3,6 +3,8 @@ title: "The Healing Fantasies of Internalizers vs Externalizers"
 description: "…the optimism you stick to to get through a painful time"
 pubDate: 2024-04-12
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-healing-fantasies-of-internalizers"
+cover: "https://substackcdn.com/image/fetch/$s_!rUF2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02fce9ce-ce94-47ba-8c6e-9e5c1f5d308f_800x800.png"
+coverAlt: "The Healing Fantasies of Internalizers vs Externalizers"
 ---
 
 We are all different, but we are eerily similar when it comes to how we cope with life. The one thing we all have in common is coming up with a fantasy about how we will eventually get what we need - to be loved, to be seen, to be accepted, to be valued and to be attended to.

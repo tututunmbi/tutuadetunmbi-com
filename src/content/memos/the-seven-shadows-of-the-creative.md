@@ -3,6 +3,8 @@ title: "The Seven Shadows of the Creative Founder"
 description: "In the Creative Economy, you are the architect of your own world. But every architect, if they are not careful, will eventually build a room they can’t figure…"
 pubDate: 2026-04-16
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-seven-shadows-of-the-creative"
+cover: "https://substackcdn.com/image/fetch/$s_!3QHI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4ace347-f30b-4966-9eed-1663be21abba_2048x2048.png"
+coverAlt: "The Seven Shadows of the Creative Founder"
 ---
 
 > In the Creative Economy, you are the architect of your own world. But every architect, if they are not careful, will eventually build a room they can’t figure out how to leave.

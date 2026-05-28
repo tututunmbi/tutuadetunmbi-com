@@ -3,6 +3,8 @@ title: "My Benediction"
 description: "There are some lessons you can only understand when looking backward. This is a quiet offering of gratitude to the hidden hands that shaped me. To the unseen o…"
 pubDate: 2025-04-27
 substackUrl: "https://tutuadetunmbi.substack.com/p/my-benediction"
+cover: "https://substackcdn.com/image/fetch/$s_!RLX9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b4850ee-bddd-49b4-816e-a06eebd8ee5b_1024x1024.png"
+coverAlt: "My Benediction"
 ---
 
 There are some lessons you can only understand when looking backward. This is a quiet offering of gratitude to the hidden hands that shaped me. To the unseen orchestration of life that loved me enough to break, rebuild, and bless me.

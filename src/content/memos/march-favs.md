@@ -3,6 +3,8 @@ title: "March Favs"
 description: "Some things I loved, and I'd love to share it with you"
 pubDate: 2024-04-06
 substackUrl: "https://tutuadetunmbi.substack.com/p/march-favs"
+cover: "https://substackcdn.com/image/fetch/$s_!Oaq8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b1ec762-0f37-4a81-b548-9a37aaf005e3_800x800.png"
+coverAlt: "March Favs"
 ---
 
 Hello April!

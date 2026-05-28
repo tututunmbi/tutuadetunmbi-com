@@ -484,9 +484,9 @@ footer.site-footer {
 .memos-list li:first-child { border-top: 1px solid rgba(0,0,0,0.08); }
 .memos-list a {
   display: grid;
-  grid-template-columns: 60px 1fr auto;
+  grid-template-columns: 40px 90px 1fr auto;
   gap: 1.5rem;
-  align-items: baseline;
+  align-items: center;
   text-decoration: none;
   color: inherit;
   transition: opacity 0.2s;
@@ -499,13 +499,177 @@ footer.site-footer {
   letter-spacing: 0.05em;
   font-style: italic;
 }
+.memos-list .row-thumb {
+  width: 90px;
+  height: 60px;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--lighter);
+  flex-shrink: 0;
+}
+.memos-list .row-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 .memos-list .memo-row-title {
-  font-size: 1.15rem;
+  font-size: 1.1rem;
   font-weight: 600;
   color: var(--black);
   letter-spacing: -0.01em;
 }
 .memos-list .memo-row-date {
+  font-size: 0.78rem;
+  color: var(--light-grey);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* ----------------------------------------------------------------
+   HOME — Kennedy-style sectioned layout
+---------------------------------------------------------------- */
+.home-intro {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 9rem 2rem 5rem;
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 4rem;
+  align-items: start;
+}
+.home-intro-text h1 {
+  font-size: clamp(2.4rem, 4.5vw, 3.4rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--black);
+  margin-bottom: 1rem;
+  line-height: 1.05;
+}
+.home-intro-text .tagline {
+  font-size: 1.1rem;
+  color: var(--grey);
+  margin-bottom: 1.8rem;
+  line-height: 1.6;
+}
+.home-intro-text .lede {
+  font-size: 0.98rem;
+  color: var(--grey);
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+}
+.home-intro-text .read-more {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--black);
+  text-decoration: none;
+  border-bottom: 1.5px solid var(--black);
+  padding-bottom: 2px;
+}
+.home-intro-socials {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.home-intro-socials a {
+  font-size: 0.78rem;
+  color: var(--light-grey);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.home-intro-socials a:hover { color: var(--black); }
+.home-portrait img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+}
+
+.home-section {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 3.5rem 2rem;
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 2rem;
+  align-items: start;
+  border-top: 1px solid rgba(0,0,0,0.08);
+}
+.home-section.no-border { border-top: none; padding-top: 0; }
+.home-section .section-numeral {
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--light-grey);
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  padding-top: 0.6rem;
+}
+.home-section h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--black);
+  margin-bottom: 1.5rem;
+}
+.home-section p {
+  font-size: 0.98rem;
+  color: var(--grey);
+  line-height: 1.8;
+  margin-bottom: 1.2rem;
+}
+.home-section a.section-cta {
+  display: inline-block;
+  margin-top: 1.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--black);
+  border-bottom: 1.5px solid var(--black);
+  padding-bottom: 2px;
+  transition: opacity 0.2s;
+}
+.home-section a.section-cta:hover { opacity: 0.6; }
+
+/* memo row on homepage (thumb + title + date) */
+.home-memo-list { list-style: none; padding: 0; margin: 0; }
+.home-memo-list li {
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+.home-memo-list li:first-child { border-top: 1px solid rgba(0,0,0,0.08); }
+.home-memo-list a {
+  display: grid;
+  grid-template-columns: 100px 1fr auto;
+  gap: 1.2rem;
+  align-items: center;
+  padding: 1.1rem 0;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.2s;
+}
+.home-memo-list a:hover { opacity: 0.7; }
+.home-memo-list .thumb {
+  width: 100px;
+  height: 66px;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--lighter);
+}
+.home-memo-list .thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.home-memo-list .title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--black);
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+}
+.home-memo-list .date {
   font-size: 0.78rem;
   color: var(--light-grey);
   font-weight: 500;
@@ -635,37 +799,47 @@ footer.site-footer {
     border-bottom: 1px solid rgba(0,0,0,0.08);
   }
   .nav-links.open { display: flex; }
-  .hero { min-height: auto; padding-bottom: 4rem; }
-  .hero-crest {
-    position: absolute;
-    top: -4%;
-    left: -15%;
-    width: 75%;
-    max-width: none;
-    transform: rotate(-8deg);
-  }
-  .hero-content {
-    margin: 0 auto;
-    padding-top: 38vh;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-    text-align: left;
-  }
-  .hero h1 { font-size: 1.6rem; white-space: normal; }
   .subscribe-form { flex-direction: column; }
   .subscribe-form input[type="email"] { border-right: 1.5px solid var(--lighter); border-radius: 6px; }
   .subscribe-form button { border-radius: 6px; }
   section { padding: 4rem 1.5rem; }
-  .about-intro-section { min-height: auto; }
-  .about-intro-layout { flex-direction: column; min-height: auto; align-items: flex-start; }
-  .about-cutout { position: relative; width: 90%; max-width: 400px; margin: 5rem auto 0; right: auto; }
-  .about-intro-text { padding: 2rem 1.5rem; max-width: 100%; }
-  .about-bio-section { padding: 3rem 1.5rem 4rem; }
   .yt-grid { grid-template-columns: 1fr; }
   .channels-grid { grid-template-columns: repeat(2, 1fr); }
   .footer-inner { flex-direction: column; gap: 1.5rem; text-align: center; }
   .memos-page { padding: 7rem 1.5rem 4rem; }
-  .memos-list a { grid-template-columns: 40px 1fr; }
-  .memos-list .memo-row-date { grid-column: 2; font-size: 0.75rem; margin-top: 0.4rem; }
+  .memos-list a {
+    grid-template-columns: 32px 70px 1fr;
+    gap: 1rem;
+  }
+  .memos-list .row-thumb { width: 70px; height: 50px; }
+  .memos-list .memo-row-date {
+    grid-column: 3;
+    font-size: 0.72rem;
+    margin-top: 0.3rem;
+  }
   .memo-page { padding: 6rem 1.5rem 4rem; }
+
+  /* Kennedy home — stack everything */
+  .home-intro {
+    grid-template-columns: 1fr;
+    padding: 7rem 1.5rem 3rem;
+    gap: 2rem;
+  }
+  .home-portrait { max-width: 320px; }
+  .home-section {
+    grid-template-columns: 50px 1fr;
+    gap: 1rem;
+    padding: 3rem 1.5rem;
+  }
+  .home-section .section-numeral { font-size: 0.85rem; }
+  .home-memo-list a {
+    grid-template-columns: 70px 1fr;
+    gap: 1rem;
+  }
+  .home-memo-list .thumb { width: 70px; height: 48px; }
+  .home-memo-list .date {
+    grid-column: 2;
+    font-size: 0.72rem;
+    margin-top: 0.3rem;
+  }
 }

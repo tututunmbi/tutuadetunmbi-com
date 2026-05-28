@@ -3,6 +3,8 @@ title: "The Formula"
 description: "I have this crazy thing I can’t get out of my mind... There is a formula for greatness."
 pubDate: 2025-01-27
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-formula"
+cover: "https://substackcdn.com/image/fetch/$s_!Zglc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12fe7e06-d902-4489-9981-49642c975074_1134x2016.png"
+coverAlt: "The Formula"
 ---
 
 I have this crazy thing I can’t get out of my mind... There is a formula for greatness.

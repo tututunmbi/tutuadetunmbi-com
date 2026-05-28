@@ -3,6 +3,8 @@ title: "Are the leaves of all trees green all the time?"
 description: "...No...Duh!"
 pubDate: 2024-04-27
 substackUrl: "https://tutuadetunmbi.substack.com/p/are-the-leaves-of-all-trees-green"
+cover: "https://substackcdn.com/image/fetch/$s_!Vtb7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21595bc8-8f59-4123-ae3f-fb2acb7d4cb6_800x800.png"
+coverAlt: "Are the leaves of all trees green all the time?"
 ---
 
 When people say you should "trust the process” what they don’t tell you is that really, the process is you.

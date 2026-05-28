@@ -3,6 +3,8 @@ title: "FREE WILL"
 description: "One of the greatest gifts…and one of the heaviest burdens, ever given to us is the freedom to choose."
 pubDate: 2025-07-09
 substackUrl: "https://tutuadetunmbi.substack.com/p/free-will"
+cover: "https://substackcdn.com/image/fetch/$s_!VwEM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a31ad72-9468-4084-8d17-f30df53ba1a7_1024x1536.png"
+coverAlt: "FREE WILL"
 ---
 
 One of the greatest gifts…and one of the heaviest burdens, ever given to us is the freedom to choose.

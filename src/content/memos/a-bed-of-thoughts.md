@@ -3,6 +3,8 @@ title: "A Bed of Thoughts"
 description: "vulnerability, and raw emotion"
 pubDate: 2024-11-29
 substackUrl: "https://tutuadetunmbi.substack.com/p/a-bed-of-thoughts"
+cover: "https://substackcdn.com/image/fetch/$s_!5dvI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2db096ec-10c3-427c-9cdc-a59f4e4114b3_800x800.png"
+coverAlt: "A Bed of Thoughts"
 ---
 
 Once in a while, I enter a melancholic exploration of my inner world— I have to tussle with my fears, desires, resilience, and the contradictions that make me human.

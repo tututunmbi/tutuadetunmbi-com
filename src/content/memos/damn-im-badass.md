@@ -3,6 +3,8 @@ title: "“Damn, I'm badass.”"
 description: "The truth is, you’ve always known you were called to more. Even when you didn’t have the language for it. Even when your environment didn’t mirror your ambitio…"
 pubDate: 2025-05-25
 substackUrl: "https://tutuadetunmbi.substack.com/p/damn-im-badass"
+cover: "https://substackcdn.com/image/fetch/$s_!HjBe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82ef46a6-af9d-46f3-9912-14a85920a49a_1050x1274.png"
+coverAlt: "“Damn, I'm badass.”"
 ---
 
 > The truth is, you’ve always known you were called to more. Even when you didn’t have the language for it. Even when your environment didn’t mirror your ambition. Even when all you had was instinct and a Wi-Fi connection. Something in you refused to settle.

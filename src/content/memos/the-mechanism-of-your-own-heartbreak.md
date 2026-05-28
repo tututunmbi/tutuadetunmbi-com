@@ -3,6 +3,8 @@ title: "The Mechanism of Your Own Heartbreak"
 description: "I have been thinking a lot lately about the architecture of exhaustion…the kind that makes you look around at your life…at the friends, the partners, the work,…"
 pubDate: 2025-12-13
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-mechanism-of-your-own-heartbreak"
+cover: "https://substackcdn.com/image/fetch/$s_!Oy0k!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdc1c425-2c8d-48cc-8993-982626698626_2816x1536.png"
+coverAlt: "The Mechanism of Your Own Heartbreak"
 ---
 
 I have been thinking a lot lately about the architecture of exhaustion…the kind that makes you look around at your life…at the friends, the partners, the work, the endless demands, and ask, *“Why is everyone taking so much from me?”*

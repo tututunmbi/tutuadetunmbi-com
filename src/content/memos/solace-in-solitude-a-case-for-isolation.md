@@ -3,6 +3,8 @@ title: "Solace in Solitude: A Case for Isolation"
 description: "I’ve often heard the advice: “Come out of your shell.” Most recently, my friend Seyi said, “You isolate yourself too much. It’s time to step out.”"
 pubDate: 2025-01-10
 substackUrl: "https://tutuadetunmbi.substack.com/p/solace-in-solitude-a-case-for-isolation"
+cover: "https://substackcdn.com/image/fetch/$s_!UsAA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c908003-7dc1-4f9f-ad5a-d1a974676540_800x800.png"
+coverAlt: "Solace in Solitude: A Case for Isolation"
 ---
 
 I’ve often heard the advice: “*Come out of your shell*.” Most recently, my friend Seyi said, “*You isolate yourself too much. It’s time to step out.*”

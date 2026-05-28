@@ -3,6 +3,8 @@ title: "When life gets challenging...play chess"
 description: "Work afraid, work with the doubt, work with the frustration. It’s your mind. You can beat it."
 pubDate: 2024-02-08
 substackUrl: "https://tutuadetunmbi.substack.com/p/when-life-gets-challengingplay-chess"
+cover: "https://substackcdn.com/image/fetch/$s_!24Az!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bf933fe-b9eb-4a0a-bc17-8a1a2ae53a72_1296x729.jpeg"
+coverAlt: "When life gets challenging...play chess"
 ---
 
 Ever heard of the moonflower?

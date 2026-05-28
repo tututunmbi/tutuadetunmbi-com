@@ -3,6 +3,8 @@ title: "Cosmic Jobs"
 description: "It took me a long time to realise and accept this but everyone, everything and every occurrence in and around your life - the great, the good, the bad, and the…"
 pubDate: 2024-09-13
 substackUrl: "https://tutuadetunmbi.substack.com/p/cosmic-jobs"
+cover: "https://substackcdn.com/image/fetch/$s_!bo9-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6f68da7-39bc-482e-84ed-da11a1085944_800x800.png"
+coverAlt: "Cosmic Jobs"
 ---
 
 It took me a long time to realise and accept this but everyone, everything and every occurrence in and around your life - the great, the good, the bad, and the ugly - they're all doing their cosmic jobs.

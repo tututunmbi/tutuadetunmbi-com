@@ -3,6 +3,8 @@ title: "In the Valley of Shadows"
 description: "The devil lacks creativity. It’s just the valley of shadows…it’sjust shadows."
 pubDate: 2025-08-03
 substackUrl: "https://tutuadetunmbi.substack.com/p/in-the-valley-of-shadows"
+cover: "https://substackcdn.com/image/fetch/$s_!wzK_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd21c8a1e-0909-4251-b7ec-dc46c719097c_1052x1268.png"
+coverAlt: "In the Valley of Shadows"
 ---
 
 > *The devil lacks creativity. It’s just the valley of shadows…it’s **just shadows.***

@@ -3,6 +3,8 @@ title: "Productivity Isn’t One-Size-Fits-All"
 description: "One thing that isn’t talked about enough when it comes to productivity—being disciplined, consistent, and actually doing the things you set out to do—is youren…"
 pubDate: 2025-01-04
 substackUrl: "https://tutuadetunmbi.substack.com/p/productivity-isnt-one-size-fits-all"
+cover: "https://substackcdn.com/image/fetch/$s_!Rfn_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26768de0-2f93-4289-ba00-d171130974e3_800x800.png"
+coverAlt: "Productivity Isn’t One-Size-Fits-All"
 ---
 
 One thing that isn’t talked about enough when it comes to productivity—being disciplined, consistent, and actually doing the things you set out to do—is your ***energy levels and capacity.***

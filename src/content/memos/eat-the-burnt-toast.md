@@ -3,6 +3,8 @@ title: "Eat the Burnt Toast"
 description: "On an episode of a storytelling podcast called “The Moth”, the theme for the night was about ‘flirting with disaster’, and one of the storytellers got up and s…"
 pubDate: 2024-08-11
 substackUrl: "https://tutuadetunmbi.substack.com/p/eat-the-burnt-toast"
+cover: "https://substackcdn.com/image/fetch/$s_!EFCh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F968579a9-66a3-4516-a766-ad3888cab41e_960x720.webp"
+coverAlt: "Eat the Burnt Toast"
 ---
 
 On an episode of a storytelling podcast called “The Moth”, the theme for the night was about ‘flirting with disaster’, and one of the storytellers got up and spoke about how he frequented a gay bar in Milwaukee in the 80’s and he was so infatuated with one mysterious good looking man at the bar who would always go home with a different stranger. The storyteller was crushed that he never got picked up, to the point that even when he was the last guy available, the stranger still decided to leave alone.

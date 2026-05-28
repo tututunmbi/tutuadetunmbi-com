@@ -3,6 +3,8 @@ title: "November lessons"
 description: "November taught me something simple, but not easy: you can only run a system on emergency power for so long. Eventually, your mind stops co-signing the lie, an…"
 pubDate: 2025-12-01
 substackUrl: "https://tutuadetunmbi.substack.com/p/november-lessons"
+cover: "https://substackcdn.com/image/fetch/$s_!2ZsB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa20cc471-07a1-4d2b-b9ed-7344adf1f3f5_1840x966.png"
+coverAlt: "November lessons"
 ---
 
 November taught me something simple, but not easy: you can only run a system on emergency power for so long. Eventually, your mind stops co-signing the lie, and your body starts collecting what it’s owed. And it’s funny… people think that only happens when you’re weak. But no. It comes because you were too strong for too long.  

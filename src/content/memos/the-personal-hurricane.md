@@ -3,6 +3,8 @@ title: "\"The Personal Hurricane\""
 description: "On November 4th, 2022, I sat on the bedside of a hotel room. I made a very peaceful, yet heavy decision. When I was ready, I opened the notes app, and I left a…"
 pubDate: 2025-12-30
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-personal-hurricane"
+cover: "https://substackcdn.com/image/fetch/$s_!MR6T!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cdd22b4-f814-4096-abe7-f919d9a37f8c_2816x1536.png"
+coverAlt: "The Personal Hurricane"
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/1cdd22b4-f814-4096-abe7-f919d9a37f8c_2816x1536.png)](https://substackcdn.com/image/fetch/$s_!MR6T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cdd22b4-f814-4096-abe7-f919d9a37f8c_2816x1536.png)

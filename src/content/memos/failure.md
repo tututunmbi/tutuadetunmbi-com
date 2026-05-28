@@ -3,6 +3,8 @@ title: "'Failure'"
 description: "Spontaneous Poetry"
 pubDate: 2024-07-12
 substackUrl: "https://tutuadetunmbi.substack.com/p/failure"
+cover: "https://substackcdn.com/image/fetch/$s_!jxgu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F371a5958-f9b8-45a3-9d52-0822e9dd3d20_2048x2048.jpeg"
+coverAlt: "'Failure'"
 ---
 
 This poem, "Still Playing" emerged from a 30-minute writing challenge using a list prompt on 'failure.' I hope it resonates with anyone who's ever faced setbacks, and I hope you enjoy reading.

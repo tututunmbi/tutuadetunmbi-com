@@ -3,6 +3,8 @@ title: "…This is for those who follow a path without a blueprint."
 description: "We are unconventional people. We need unconventional strategies."
 pubDate: 2024-09-06
 substackUrl: "https://tutuadetunmbi.substack.com/p/this-is-for-those-who-follow-a-path"
+cover: "https://substackcdn.com/image/fetch/$s_!Z9LT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6b818bf-ed8e-4f90-8e0b-04edecc1fac6_3010x2244.heic"
+coverAlt: "…This is for those who follow a path without a blueprint."
 ---
 
 How can you have one big goal or vision when you have multiple interests, multiple passions, and multiple callings? This is the dilemma faced by multi-passionates who have big dreams in many different mediums.

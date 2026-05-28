@@ -3,6 +3,8 @@ title: "Designing 2024: A Blueprint for Intentional Living"
 description: "How I prep for a New Year"
 pubDate: 2024-01-06
 substackUrl: "https://tutuadetunmbi.substack.com/p/designing-2024-a-blueprint-for-intentional"
+cover: "https://substackcdn.com/image/fetch/$s_!QU_n!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47c021c-aba5-4be7-a035-3a592399d3d9_1284x1597.jpeg"
+coverAlt: "Designing 2024: A Blueprint for Intentional Living"
 ---
 
 Life becomes so simple when you know your vision; if something differs from your destiny and it doesn’t collaborate in unity with your vision it becomes easy to say no.

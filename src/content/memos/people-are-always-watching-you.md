@@ -3,6 +3,8 @@ title: "People are always watching you."
 description: "But that is not your problem."
 pubDate: 2024-05-26
 substackUrl: "https://tutuadetunmbi.substack.com/p/people-are-always-watching-you"
+cover: "https://substackcdn.com/image/fetch/$s_!au23!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8dfb2a9-d20c-451b-b1c8-6b27475ab66c_800x800.png"
+coverAlt: "People are always watching you."
 ---
 
 We've all heard that quote: "People are too busy with their own lives to care about you." But that can feel dismissive, invalidating your feelings. This is a quote that perpetuates some type of paranoia, like how you feel is not valid. The truth is if you've built an audience…scratch that… if you are simply alive, people **are** watching. Maybe not with laser focus or to a great degree, but they're aware. They are watching you.

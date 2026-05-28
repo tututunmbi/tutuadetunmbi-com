@@ -3,6 +3,8 @@ title: "February Favs"
 description: "Some things I loved, and I'd love to share it with you"
 pubDate: 2024-03-01
 substackUrl: "https://tutuadetunmbi.substack.com/p/february-favs"
+cover: "https://substackcdn.com/image/fetch/$s_!PxJf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7605cd21-230f-442f-8baf-11a73411a60d_800x800.png"
+coverAlt: "February Favs"
 ---
 
 Welcome to March! How did February treat you? For me, it was a month of profound self-discovery and growth. It was the month I started building on consistency and discipline, and I learned that it starts with a lot of inner work. It was when I fully understood who I am, what I want, and what I want to be. I gained clarity on my identity, desires, and aspirations. I started to see where I was headed, my life began to align, and I have a sense of purpose and fulfilment. It feels great.

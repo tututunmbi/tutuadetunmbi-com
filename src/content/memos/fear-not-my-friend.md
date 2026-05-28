@@ -3,6 +3,8 @@ title: "Fear Not, My Friend"
 description: "Storms happen to everyone. They are life’s uninvited interruptions. They are painfully delaying, limiting, and unrelenting. When storms come, they do not knock…"
 pubDate: 2024-12-04
 substackUrl: "https://tutuadetunmbi.substack.com/p/fear-not-my-friend"
+cover: "https://substackcdn.com/image/fetch/$s_!fMmB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b167a07-d821-499c-a516-d3153d44113a_800x800.png"
+coverAlt: "Fear Not, My Friend"
 ---
 
 Storms happen to everyone. They are life’s uninvited interruptions. They are painfully delaying, limiting, and unrelenting. When storms come, they do not knock politely or give notice; they arrive with force, shaking everything you thought was solid. Storms target your faith, shake your vision, and challenge your progress.

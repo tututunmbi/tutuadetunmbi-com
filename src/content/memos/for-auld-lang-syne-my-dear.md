@@ -3,6 +3,8 @@ title: "For \"Auld Lang Syne\", My Dear 🥂"
 description: "As I sit, ready to close the chapter that has been the most eye-opening, mountain-climbing, painfully…euphorically transformative year of my life, I thought, w…"
 pubDate: 2024-12-17
 substackUrl: "https://tutuadetunmbi.substack.com/p/for-auld-lang-syne-my-dear"
+cover: "https://substackcdn.com/image/fetch/$s_!0VR-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff06ea6f6-e88d-4c48-b2bc-79852fe19093_800x800.png"
+coverAlt: "For \"Auld Lang Syne\", My Dear 🥂"
 ---
 
 As I sit, ready to close the chapter that has been the most eye-opening, mountain-climbing, painfully…euphorically transformative year of my life, I thought, why not make a toast…for “Auld lang Syne”🥂

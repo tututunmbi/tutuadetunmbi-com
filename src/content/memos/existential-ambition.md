@@ -3,6 +3,8 @@ title: "“Existential Ambition”"
 description: "What do you call that sensation when you’re deeply grateful for your life, yet feel suffocated by how much more is out there?"
 pubDate: 2025-05-09
 substackUrl: "https://tutuadetunmbi.substack.com/p/existential-ambition"
+cover: "https://substackcdn.com/image/fetch/$s_!h0a6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d1ed-0cb6-4eae-b2c0-a6421acd507e_1024x1536.png"
+coverAlt: "“Existential Ambition”"
 ---
 
 What do you call that sensation when you’re deeply grateful for your life, yet feel suffocated by how much more is out there?

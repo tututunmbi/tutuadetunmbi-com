@@ -41,6 +41,9 @@ function roman(n: number): string {
           <li>
             <a href={`/memos/${m.id}/`}>
               <span class="roman">{roman(i + 1)}.</span>
+              <span class="row-thumb">
+                {m.data.cover && <img src={m.data.cover} alt={m.data.coverAlt ?? m.data.title} loading="lazy" />}
+              </span>
               <span class="memo-row-title">{m.data.title}</span>
               <span class="memo-row-date">{formatDate(m.data.pubDate)}</span>
             </a>

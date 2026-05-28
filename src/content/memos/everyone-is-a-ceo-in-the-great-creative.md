@@ -3,6 +3,8 @@ title: "The Creative Economy Is a Very Expensive Vibe."
 description: "We Are Not Building a Creative Economy; We Are Building a Cultural Façade."
 pubDate: 2026-03-19
 substackUrl: "https://tutuadetunmbi.substack.com/p/everyone-is-a-ceo-in-the-great-creative"
+cover: "https://substackcdn.com/image/fetch/$s_!g00q!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa55b5b80-c0b0-4ca9-bb76-e15ad9f537bb_1106x1298.png"
+coverAlt: "The Creative Economy Is a Very Expensive Vibe."
 ---
 
 The Creative Economy feels like standing in a beautifully decorated waiting room for a train that isn’t coming…

@@ -3,6 +3,8 @@ title: "The Routine to Greatness: A No-Nonsense Guide (A 3-Part Series)"
 description: "Week 1: The Disgust Factor - Your Launchpad"
 pubDate: 2024-03-08
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-routine-to-greatness-a-no-nonsense"
+cover: "https://substackcdn.com/image/fetch/$s_!TQ7s!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33d98ede-ccaf-4939-886a-48374fea2899_800x800.png"
+coverAlt: "The Routine to Greatness: A No-Nonsense Guide (A 3-Part Series)"
 ---
 
 My dear friends, Greatness is calling, but it demands discipline, consistency, and a complete revamp of your routine. It's an all-in journey.

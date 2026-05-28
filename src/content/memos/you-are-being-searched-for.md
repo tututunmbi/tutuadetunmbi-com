@@ -3,6 +3,8 @@ title: "You Are Being Searched For"
 description: "This was inspired by an artist I am now in love with..."
 pubDate: 2024-04-19
 substackUrl: "https://tutuadetunmbi.substack.com/p/you-are-being-searched-for"
+cover: "https://i.scdn.co/image/ab67616d0000b273277620423172f5a151f452e3"
+coverAlt: "You Are Being Searched For"
 ---
 
 Play this while you read…

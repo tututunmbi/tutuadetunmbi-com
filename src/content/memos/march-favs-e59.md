@@ -3,6 +3,8 @@ title: "March Favs"
 description: "Some things I loved, and I'd love to share it with you"
 pubDate: 2025-04-01
 substackUrl: "https://tutuadetunmbi.substack.com/p/march-favs-e59"
+cover: "https://substackcdn.com/image/fetch/$s_!eRX1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7bfc935-4d06-45de-b8c6-b61841684287_800x800.png"
+coverAlt: "March Favs"
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/64ca1838-300f-49dd-b499-ba537e62b45c_800x800.heic)](https://substackcdn.com/image/fetch/$s_!z2NS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64ca1838-300f-49dd-b499-ba537e62b45c_800x800.heic)

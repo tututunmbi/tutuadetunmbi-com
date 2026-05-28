@@ -3,6 +3,8 @@ title: "I Met My Younger Self for Coffee..."
 description: "It was time…"
 pubDate: 2025-03-29
 substackUrl: "https://tutuadetunmbi.substack.com/p/i-met-my-younger-self-for-coffee"
+cover: "https://substackcdn.com/image/fetch/$s_!W5nR!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2540302-0054-48f0-84a9-f6aabfeab49b_1080x1350.jpeg"
+coverAlt: "I Met My Younger Self for Coffee..."
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/6a97fb3b-cb22-432a-bd9f-9423059d913f_1080x1350.heic)](https://substackcdn.com/image/fetch/$s_!3uNa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a97fb3b-cb22-432a-bd9f-9423059d913f_1080x1350.heic)

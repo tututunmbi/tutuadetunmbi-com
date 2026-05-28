@@ -3,6 +3,8 @@ title: "The Routine to Greatness: A No-Nonsense Guide (Part 2)"
 description: "Week 2: Inner Work - Unearthing Your Why & Designing Your Final Form"
 pubDate: 2024-03-15
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-routine-to-greatness-a-no-nonsense-f97"
+cover: "https://substackcdn.com/image/fetch/$s_!U14n!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa99cf34a-1461-4a9c-840e-cbc00d6bfff3_800x800.png"
+coverAlt: "The Routine to Greatness: A No-Nonsense Guide (Part 2)"
 ---
 
 My riders, welcome back! Last week, we embraced the power of "The Disgust Factor" – how a healthy dose of dissatisfaction can spark the fire for greatness. We also identified your raw "why," that deep motivation driving your journey.

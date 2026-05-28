@@ -3,6 +3,8 @@ title: "Nighttime Thoughts"
 description: "If all I had left was a day… I would feel so many emotions, I would not even know where to begin."
 pubDate: 2024-09-27
 substackUrl: "https://tutuadetunmbi.substack.com/p/nighttime-thoughts"
+cover: "https://substackcdn.com/image/fetch/$s_!oUOG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a6cdb96-0c8e-4ad3-9d14-8fe8f038adeb_1284x1605.jpeg"
+coverAlt: "Nighttime Thoughts"
 ---
 
 ### *If I had only 24 hours left on Earth, what would I do?*

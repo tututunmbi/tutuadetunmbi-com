@@ -3,6 +3,8 @@ title: "Postcards from Beirut 🇱🇧"
 description: "I’ve always been a bit of a homebody. Even more so in the last 2 years. My comfort zone is a cosy little bubble that I am always reluctant to burst. But someti…"
 pubDate: 2024-08-28
 substackUrl: "https://tutuadetunmbi.substack.com/p/postcards-from-beirut"
+cover: "https://substackcdn.com/image/fetch/$s_!CdUe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89532f97-856a-44ba-8914-9b0750e66271_3024x4032.heic"
+coverAlt: "Postcards from Beirut 🇱🇧"
 ---
 
 I’ve always been a bit of a homebody. Even more so in the last 2 years. My comfort zone is a cosy little bubble that I am always reluctant to burst. But sometimes, the most extraordinary experiences happen when you step outside of that bubble. And that’s exactly what I did when I decided to take a trip to Beirut.

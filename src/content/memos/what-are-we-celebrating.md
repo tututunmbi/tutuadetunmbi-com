@@ -3,6 +3,8 @@ title: "what are we celebrating?"
 description: "Women alone cannot dismantle a system they did not build…"
 pubDate: 2025-03-08
 substackUrl: "https://tutuadetunmbi.substack.com/p/what-are-we-celebrating"
+cover: "https://substackcdn.com/image/fetch/$s_!wl6D!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F613650a6-d6b3-41b9-a189-ee8b72e693e0_800x800.png"
+coverAlt: "what are we celebrating?"
 ---
 
 Women alone cannot dismantle a system they did not build…

@@ -3,6 +3,8 @@ title: "In 2024, The Niche, is YOU"
 description: "Welcome to a new era"
 pubDate: 2024-01-29
 substackUrl: "https://tutuadetunmbi.substack.com/p/in-2024-the-niche-is-you"
+cover: "https://substackcdn.com/image/fetch/$s_!RkY3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ca718c7-a241-459d-8292-1bd60edb477b_1024x1024.png"
+coverAlt: "In 2024, The Niche, is YOU"
 ---
 
 The true currency of today's modern age isn't just attention... nah bruh...it is trust. 2024 is the death of the niche, it's all about building an authentic personal brand.

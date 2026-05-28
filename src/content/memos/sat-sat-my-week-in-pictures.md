@@ -3,6 +3,8 @@ title: "Sat-Sat: My Week in Pictures"
 description: "Come with me!"
 pubDate: 2024-06-15
 substackUrl: "https://tutuadetunmbi.substack.com/p/sat-sat-my-week-in-pictures"
+cover: "https://substackcdn.com/image/fetch/$s_!Im4J!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7bafa67-3b54-4b8f-b9dd-62a853f633ff_3024x4032.heic"
+coverAlt: "Sat-Sat: My Week in Pictures"
 ---
 
 ### SATURDAY

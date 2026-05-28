@@ -3,6 +3,8 @@ title: "You are someone's answered prayer"
 description: "This is not a love story..."
 pubDate: 2024-02-14
 substackUrl: "https://tutuadetunmbi.substack.com/p/you-are-someones-answered-prayer"
+cover: "https://substackcdn.com/image/fetch/$s_!ph2O!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F327aeccf-7641-418b-87ca-ca7bb1fe6cb4_800x800.png"
+coverAlt: "You are someone's answered prayer"
 ---
 
 In a world often clouded by self-doubt and uncertainty, it's easy to overlook the profound impact we can have on others' lives. Yet, within each of us lies the potential to be someone's answered prayer. I am just here to share with you that your existence, your journey, is not merely happenstance; it's a divine orchestration, a cosmic alignment of purpose waiting to unfold.

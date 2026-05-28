@@ -3,6 +3,8 @@ title: "The Battle of the Self"
 description: "We all are the weapon formed against ourselves. So if you are going to battle with anything, it should first be with yourself. It’s time to battle with your se…"
 pubDate: 2024-07-21
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-battle-of-the-self"
+cover: "https://substackcdn.com/image/fetch/$s_!uWGq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ab5b0a7-4f25-4fc1-bfd0-b270aaedc222_800x800.png"
+coverAlt: "The Battle of the Self"
 ---
 
 We all are the weapon formed against ourselves. So if you are going to battle with anything, it should first be with yourself. It’s time to battle with your self-concept because unlocking everything you are looking for lies on the other side of your self-image. Give me a few minutes of your time, you're going to love this.

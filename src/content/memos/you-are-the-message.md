@@ -3,6 +3,8 @@ title: "You Are the Message"
 description: "We are in the middle of a shift…a divine recalibration that’s returning power to those who think differently, who create intentionally, who are no longer willi…"
 pubDate: 2025-04-19
 substackUrl: "https://tutuadetunmbi.substack.com/p/you-are-the-message"
+cover: "https://substackcdn.com/image/youtube/w_728,c_limit/CqHtpeiF064"
+coverAlt: "You Are the Message"
 ---
 
 We are in the middle of a shift…a divine recalibration that’s returning power to those who think differently, who create intentionally, who are no longer willing to live in reaction. The age of passive existence is over. A new kind of leader is rising. Not the loudest, not the most popular, but the most *attuned*.

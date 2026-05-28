@@ -3,6 +3,8 @@ title: "The Laziness of Perfectionism..."
 description: "Ever felt that weird mix of wanting to do great things but also feeling too lazy to start? That's the laziness of perfectionism sneaking in. We often convince…"
 pubDate: 2024-01-08
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-laziness-of-perfectionism"
+cover: "https://substackcdn.com/image/fetch/$s_!tIfp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d231652-a05f-4e72-99c1-4f22fc338894_1200x630.jpeg"
+coverAlt: "The Laziness of Perfectionism..."
 ---
 
 Ever felt that weird mix of wanting to do great things but also feeling too lazy to start? That's the laziness of perfectionism sneaking in. We often convince ourselves that we're waiting for the perfect moment to be inspired, but in reality, what happens to most of us who indulge in this laziness is we get to the point where we have a limited timeframe...we artificially create our own demand for efficiency by waiting until the last minute. You know, those moments when you end up cramming everything into the last minute? Yeah, unnecessary future stress

@@ -3,6 +3,8 @@ title: "33 Truths That Changed My Life"
 description: "A list of my random epiphanies"
 pubDate: 2024-06-28
 substackUrl: "https://tutuadetunmbi.substack.com/p/33-truths-that-changed-my-life"
+cover: "https://substackcdn.com/image/fetch/$s_!YXR3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96eed08d-1a85-492b-9532-dd7fdb24af69_800x800.png"
+coverAlt: "33 Truths That Changed My Life"
 ---
 
 1. There is no space for me in this world unless I make one.

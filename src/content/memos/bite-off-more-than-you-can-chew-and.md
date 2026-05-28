@@ -3,6 +3,8 @@ title: "Bite Off More Than You Can Chew, and Chew It Anyway"
 description: "Lessons from a month that almost broke me."
 pubDate: 2025-09-09
 substackUrl: "https://tutuadetunmbi.substack.com/p/bite-off-more-than-you-can-chew-and"
+cover: "https://substackcdn.com/image/fetch/$s_!YYaO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac3071a2-ec1d-493c-a1ff-79639226c211_918x1148.heic"
+coverAlt: "Bite Off More Than You Can Chew, and Chew It Anyway"
 ---
 
 August nearly broke me…

@@ -3,6 +3,8 @@ title: "June Favs"
 description: "Some things I loved, and I'd love to share it with you 🧡"
 pubDate: 2024-07-01
 substackUrl: "https://tutuadetunmbi.substack.com/p/june-favs"
+cover: "https://substackcdn.com/image/fetch/$s_!5CSh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03588110-0a97-40db-944a-0203ab4b616a_800x800.png"
+coverAlt: "June Favs"
 ---
 
 You know the drill…grab a drink, grab a snack, it’s time for JUNE FAVS!!!!!

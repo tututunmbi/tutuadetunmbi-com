@@ -3,6 +3,8 @@ title: "The Audacity of Mediocrity in Creative Business"
 description: "The Death of Digital Professionalism + Why Creative Entrepreneurs Are Losing Because of It"
 pubDate: 2025-03-15
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-audacity-of-mediocrity-in-creative"
+cover: "https://substackcdn.com/image/fetch/$s_!hXk6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34db64d9-dbca-4471-ba5f-3dec344c8566_800x800.png"
+coverAlt: "The Audacity of Mediocrity in Creative Business"
 ---
 
 What if I told you that the biggest threat to your creative business isn’t competition but the slow death of digital professionalism?

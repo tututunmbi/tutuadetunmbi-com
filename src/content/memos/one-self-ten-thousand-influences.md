@@ -3,6 +3,8 @@ title: "One Self, Ten Thousand Influences"
 description: "Maya Angelou once said,“I come as one, but I stand as 10,000.”She used it to illustrate the nature of self-love: the idea that you cannot receive wholeness fro…"
 pubDate: 2025-11-12
 substackUrl: "https://tutuadetunmbi.substack.com/p/one-self-ten-thousand-influences"
+cover: "https://substackcdn.com/image/fetch/$s_!Ytap!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1671bf47-e220-4880-b5ff-f9d4027ee117_1080x1080.png"
+coverAlt: "One Self, Ten Thousand Influences"
 ---
 
 Maya Angelou once said, *“I come as one, but I stand as 10,000.”* She used it to illustrate the nature of self-love: the idea that you cannot receive wholeness from someone who has none to give, and that your confidence is shaped by the countless influences you carry with you…your history, your lineage, your people. It is a powerful concept, but it does not speak to everyone….

@@ -3,6 +3,8 @@ title: "From Substack to Screen: The Formula Comes Full Circle"
 description: "On the 27th of January this year, I sat at my desk, I pressed publish on an article I couldn’t get out of my mind here on Substack. It was called “The Formula”."
 pubDate: 2025-08-27
 substackUrl: "https://tutuadetunmbi.substack.com/p/from-substack-to-screen-the-formula"
+cover: "https://substackcdn.com/image/fetch/$s_!mQ5y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7485e8ee-bb05-4b71-afd5-edad51c3ce93_3249x4874.jpeg"
+coverAlt: "From Substack to Screen: The Formula Comes Full Circle"
 ---
 
 On the 27th of January this year, I sat at my desk, I pressed publish on an article I couldn’t get out of my mind here on Substack. It was called “The Formula”.

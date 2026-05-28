@@ -3,6 +3,8 @@ title: "May Favs"
 description: "Some things I loved, and I'd love to share it with you 🧡"
 pubDate: 2024-06-01
 substackUrl: "https://tutuadetunmbi.substack.com/p/may-favs"
+cover: "https://substackcdn.com/image/fetch/$s_!Dsj9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46e381bb-1e8e-4bef-a32f-44de18244408_800x800.png"
+coverAlt: "May Favs"
 ---
 
 I blinked and it was June because how did this month zoom by that fast?

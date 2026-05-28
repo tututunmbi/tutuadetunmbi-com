@@ -3,6 +3,8 @@ title: "The Social Media Narcotics: Users, Dealers, and the Ever-Present Influen
 description: "It is high time to know what you are…"
 pubDate: 2024-01-15
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-social-media-narcotics-users"
+cover: "https://substackcdn.com/image/fetch/$s_!5CqV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe90e8812-5446-4419-a938-3ed5a191c422_752x391.jpeg"
+coverAlt: "The Social Media Narcotics: Users, Dealers, and the Ever-Present Influence Game"
 ---
 
 Whether you're a willing participant or not, social media operates as a potent drug. Watching documentaries like [The Great Hack](https://www.netflix.com/title/80117542) and [The Social Dilemma](https://www.netflix.com/title/81254224) on Netflix will reveal to you that sure, at the beginning it started out as a simple network for connecting with friends to a colossal trillion-dollar industry gold mine. This industry meticulously dissects and analyzes the behaviours, attention spans, and decisions of every single user, turning them into subjects of relentless study.

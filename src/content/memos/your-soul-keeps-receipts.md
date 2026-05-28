@@ -3,6 +3,8 @@ title: "Your Soul Keeps Receipts"
 description: "You will always be stuck in cycles of diminishing returns if you don’t confront your own lack of self-worth. It trickles down into everything…your decisions, y…"
 pubDate: 2025-06-12
 substackUrl: "https://tutuadetunmbi.substack.com/p/your-soul-keeps-receipts"
+cover: "https://substackcdn.com/image/fetch/$s_!0BlM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9114dbf8-b7e4-47f9-a967-09878c4480e9_1024x1024.heic"
+coverAlt: "Your Soul Keeps Receipts"
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/9114dbf8-b7e4-47f9-a967-09878c4480e9_1024x1024.heic)](https://substackcdn.com/image/fetch/$s_!0BlM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9114dbf8-b7e4-47f9-a967-09878c4480e9_1024x1024.heic)

@@ -3,6 +3,8 @@ title: "Self Unbranding"
 description: "This one might hurt a little..."
 pubDate: 2024-09-20
 substackUrl: "https://tutuadetunmbi.substack.com/p/self-unbranding"
+cover: "https://substackcdn.com/image/fetch/$s_!JSVE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7b12dc-99a4-422e-a3a0-9930eb48e7a3_800x800.png"
+coverAlt: "Self Unbranding"
 ---
 
 Have you outgrown your current self? Have you evolved past the version of yourself that you currently are? Are your changing beliefs changing you faster than you thought?

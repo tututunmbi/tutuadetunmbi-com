@@ -3,6 +3,8 @@ title: "The Routine to Greatness: A No-Nonsense Guide (The Final Part)"
 description: "The Victory Lap - We did it!"
 pubDate: 2024-03-22
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-routine-to-greatness-a-no-nonsense-8e2"
+cover: "https://substackcdn.com/image/fetch/$s_!KlsY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa12599d4-d2e2-4160-b7b1-0b21183fa8fc_800x800.png"
+coverAlt: "The Routine to Greatness: A No-Nonsense Guide (The Final Part)"
 ---
 
 We did it! We embarked on this wild ride together three weeks ago and we are now in the final chapter! Remember back in Week 1, how this all started, with raw dissatisfaction? Then we unearthed our "why’s”, (the REAL ones), and moved into Week 2 with a transformative deep dive of self-discovery, confronting limiting beliefs and crafting a magnificent vision – our "Final Forms."

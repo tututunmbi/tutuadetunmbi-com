@@ -3,6 +3,8 @@ title: "Your essence is enough to open doors"
 description: "Let me tell you my story."
 pubDate: 2024-06-09
 substackUrl: "https://tutuadetunmbi.substack.com/p/your-essence-is-enough-to-open-doors"
+cover: "https://substackcdn.com/image/fetch/$s_!YXgW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F839a3f65-e7b1-437b-baa4-de1ac532c173_900x1200.heic"
+coverAlt: "Your essence is enough to open doors"
 ---
 
 I have seen many people die at the altar of altering themselves to fit a particular mould. They feel that the alteration of their identity is what they need to do to get to where they’re going.

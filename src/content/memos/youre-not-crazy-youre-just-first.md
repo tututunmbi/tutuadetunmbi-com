@@ -3,6 +3,8 @@ title: "You're not Crazy, You're just First"
 description: "So give back the names they gave you"
 pubDate: 2024-02-21
 substackUrl: "https://tutuadetunmbi.substack.com/p/youre-not-crazy-youre-just-first"
+cover: "https://substackcdn.com/image/fetch/$s_!jW6f!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa69f4f28-a1e6-4130-9659-3bc8877a2023_800x800.png"
+coverAlt: "You're not Crazy, You're just First"
 ---
 
 Sadly, you don’t know it at the time, but what you perceive as your flaws and setbacks are actually setups for what we are called to do.

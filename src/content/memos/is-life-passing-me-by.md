@@ -3,6 +3,8 @@ title: "Is life passing me by?"
 description: "Great advice needed..."
 pubDate: 2024-05-19
 substackUrl: "https://tutuadetunmbi.substack.com/p/is-life-passing-me-by"
+cover: "https://substackcdn.com/image/fetch/$s_!BXtf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F690e90f3-e923-4dfe-8fd0-ba9d0213c69c_800x800.png"
+coverAlt: "Is life passing me by?"
 ---
 
 This week, 3 (actually, 4) people have said the same thing to me. So clearly, I’m being warned.

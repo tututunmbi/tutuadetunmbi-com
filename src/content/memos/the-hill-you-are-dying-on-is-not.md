@@ -3,6 +3,8 @@ title: "the hill you are dying on is not holy."
 description: "There’s a certain kind of exhaustion that doesn’t feel like tiredness…you know the one…"
 pubDate: 2025-06-06
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-hill-you-are-dying-on-is-not"
+cover: "https://substackcdn.com/image/fetch/$s_!uvOk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fe38275-dc2b-4e3f-b090-b2ebc4c6b2f9_782x802.png"
+coverAlt: "the hill you are dying on is not holy."
 ---
 
 There’s a certain kind of exhaustion that doesn’t feel like tiredness…you know the one…

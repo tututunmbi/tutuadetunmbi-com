@@ -3,6 +3,8 @@ title: "I can't go on...I'll go on"
 description: "It’s been almost a whole month since I was last here."
 pubDate: 2024-11-15
 substackUrl: "https://tutuadetunmbi.substack.com/p/i-cant-go-onill-go-on"
+cover: "https://substackcdn.com/image/fetch/$s_!Xtol!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f23c916-a56c-45ca-b126-307380d8bee3_1284x1277.heic"
+coverAlt: "I can't go on...I'll go on"
 ---
 
 It’s been almost a whole month since I was last here.

@@ -3,6 +3,8 @@ title: "Autonomy."
 description: "…Find it. Hold onto it like your life depends on it, because in many ways, it does. Lose it, and you become a slave to the validation of others. You hand over…"
 pubDate: 2025-07-11
 substackUrl: "https://tutuadetunmbi.substack.com/p/autonomy"
+cover: "https://substackcdn.com/image/fetch/$s_!zFJU!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftutuadetunmbi.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1759202640%26version%3D9"
+coverAlt: "Autonomy."
 ---
 
 …Find it. Hold onto it like your life depends on it, because in many ways, it does. Lose it, and you become a slave to the validation of others. You hand over the keys to your life the moment you give up your autonomy.

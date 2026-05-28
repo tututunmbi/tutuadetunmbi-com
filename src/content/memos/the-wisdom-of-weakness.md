@@ -3,6 +3,8 @@ title: "the wisdom of weakness"
 description: "For as long as I can remember, I have existed in two worlds: the one in my head and the one outside of me."
 pubDate: 2025-02-07
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-wisdom-of-weakness"
+cover: "https://substackcdn.com/image/fetch/$s_!W1Lv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c702f40-9db9-49e7-b788-22e3796940ed_800x800.png"
+coverAlt: "the wisdom of weakness"
 ---
 
 For as long as I can remember, I have existed in two worlds: the one in my head and the one outside of me.

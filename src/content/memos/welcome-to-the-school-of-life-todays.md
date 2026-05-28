@@ -3,6 +3,8 @@ title: "Welcome to the School of Life… Today's Subject: Fear"
 description: "Ring, Ring!Welcome, entrepreneurs (or anyone embarking on a bold journey), to the most unconventional school you'll ever attend: The School of Life! Here, the…"
 pubDate: 2024-03-29
 substackUrl: "https://tutuadetunmbi.substack.com/p/welcome-to-the-school-of-life-todays"
+cover: "https://substackcdn.com/image/fetch/$s_!zov8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bdd4229-f5ed-4563-a151-5bf0679ad7d3.heic"
+coverAlt: "Welcome to the School of Life… Today's Subject: Fear"
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/6bdd4229-f5ed-4563-a151-5bf0679ad7d3.heic)](https://substackcdn.com/image/fetch/$s_!zov8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bdd4229-f5ed-4563-a151-5bf0679ad7d3.heic)

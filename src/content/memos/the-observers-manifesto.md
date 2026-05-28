@@ -3,6 +3,8 @@ title: "The Observer’s Manifesto"
 description: "I’ll tell you something…everybody sees life through their own lens. And in their lens, their story, their reasoning, and their perspective make perfect sense.…"
 pubDate: 2025-07-19
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-observers-manifesto"
+cover: "https://substackcdn.com/image/fetch/$s_!3H0U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F318497e3-2de9-4473-875a-f504148e796b_1024x1024.heic"
+coverAlt: "The Observer’s Manifesto"
 ---
 
 I’ll tell you something…everybody sees life through their own lens. And in their lens, their story, their reasoning, and their perspective make perfect sense. And you know what? That’s okay too. Because I can’t talk you out of your programming, your script, or your deeply embedded code.

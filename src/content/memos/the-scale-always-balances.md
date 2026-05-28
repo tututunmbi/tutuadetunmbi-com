@@ -3,6 +3,8 @@ title: "the scale always balances..."
 description: "A Letter From the Now, on the Way to the Next"
 pubDate: 2025-05-15
 substackUrl: "https://tutuadetunmbi.substack.com/p/the-scale-always-balances"
+cover: "https://substackcdn.com/image/fetch/$s_!HR6L!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7b672c4-e33c-4d44-b3a5-86810fdf1ab5_1024x1536.png"
+coverAlt: "the scale always balances..."
 ---
 
 In some rooms, you are the student.  

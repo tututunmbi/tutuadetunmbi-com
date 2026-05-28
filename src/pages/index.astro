@@ -10,6 +10,37 @@ const memos = (await getCollection('memos', ({ data }) => !data.draft))
 
 const formatDate = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Fetch latest YouTube videos at build time (skip Shorts)
+const YT_CHANNEL_ID = 'UCbpCskTqAxoU-U1Z0EaPyWA';
+type Video = { id: string; title: string };
+let videos: Video[] = [
+  // Fallback used only if the RSS fetch fails at build time
+  { id: 'KCnHdJGTQWI', title: 'My Creative Agency Died. I Killed It.' },
+  { id: 'huBbL1WAB9w', title: 'Everyone Is a CEO. Nobody Is Building a Company.' },
+  { id: 'pKBAeneGAwY', title: "You're Not Failing. You're Just Building as the Wrong Version of Yourself." },
+];
+try {
+  const res = await fetch(`https://www.youtube.com/feeds/videos.xml?channel_id=${YT_CHANNEL_ID}`);
+  if (res.ok) {
+    const xml = await res.text();
+    const entries = Array.from(xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)).map((m) => m[1]);
+    const parsed: Video[] = [];
+    for (const e of entries) {
+      const linkMatch = e.match(/<link rel="alternate" href="([^"]+)"/);
+      if (linkMatch && linkMatch[1].includes('/shorts/')) continue; // skip Shorts
+      const idMatch = e.match(/<yt:videoId>([^<]+)<\/yt:videoId>/);
+      const titleMatch = e.match(/<title>([^<]+)<\/title>/);
+      if (idMatch && titleMatch) {
+        parsed.push({ id: idMatch[1], title: titleMatch[1] });
+      }
+      if (parsed.length >= 3) break;
+    }
+    if (parsed.length > 0) videos = parsed;
+  }
+} catch {
+  // Use fallback above
+}
 ---
 <Layout current="home">
 
@@ -76,7 +107,23 @@ const formatDate = (d: Date) =>
     <div>
       <h2>Watch.</h2>
       <p>The memos go deep. The videos let you sit with me while I think out loud.</p>
-      <div id="yt-feed" class="yt-grid" style="margin-top: 2rem;"></div>
+      <div class="yt-grid" style="margin-top: 2rem;">
+        {videos.map((v) => (
+          <div class="yt-video-card">
+            <div class="yt-embed-wrap">
+              <iframe
+                src={`https://www.youtube.com/embed/${v.id}`}
+                title={v.title}
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+            <div class="yt-video-title">{v.title}</div>
+          </div>
+        ))}
+      </div>
       <a href="https://www.youtube.com/@Tutu.Adetunmbi?sub_confirmation=1" target="_blank" rel="noopener" class="section-cta">Subscribe on YouTube →</a>
     </div>
   </section>

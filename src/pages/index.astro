@@ -11,6 +11,66 @@ const memos = (await getCollection('memos', ({ data }) => !data.draft))
 const formatDate = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
+// Press / media features (hand-curated)
+type PressItem = {
+  outlet: string;
+  title: string;
+  excerpt: string;
+  image: string;
+  url: string;
+  kind: 'article' | 'video';
+};
+const press: PressItem[] = [
+  {
+    outlet: 'Vanguard Nigeria',
+    title: "We expanded to Zambia to accelerate Africa's place in global digital economy",
+    excerpt: "Stamfordham, a global leader in integrated marketing communications, has expanded its operations into Zambia, marking a significant step in its mission to strengthen its presence across Africa.",
+    image: 'https://cdn.vanguardngr.com/wp-content/uploads/2025/03/image-202-e1741694060980-1024x755.png',
+    url: 'https://www.vanguardngr.com/2025/03/we-expanded-to-zambia-to-accelerate-africas-place-in-global-digital-economy-ceo-stamfordham/',
+    kind: 'article',
+  },
+  {
+    outlet: 'The Guardian Nigeria',
+    title: 'Digital Professional Fair to boost careers, startups, scaleups',
+    excerpt: 'The Digital Professional Fair is set to debut in Lagos this August in a move to position itself as a flagship gathering for emerging talent.',
+    image: 'https://cdn.guardian.ng/wp-content/uploads/2025/07/IMG_91061-scaled.jpg',
+    url: 'https://guardian.ng/technology/tech/digital-professional-fair-to-boost-careers-startups-scaleups/',
+    kind: 'article',
+  },
+  {
+    outlet: 'YouTube · Kennedy Ekezie',
+    title: 'Who Are You Without the Titles: Tutu Adetunmbi on Becoming',
+    excerpt: 'A long-form conversation on the Limitless Series — identity, becoming, and the work beneath the work.',
+    image: 'https://i.ytimg.com/vi/CqHtpeiF064/hqdefault.jpg',
+    url: 'https://www.youtube.com/watch?v=CqHtpeiF064',
+    kind: 'video',
+  },
+  {
+    outlet: 'Business Africa Online',
+    title: "Creativity, Data, and Innovation: Tutu Adetunmbi's Vision for Africa's Marketing Future",
+    excerpt: 'On leading transformative strategies that fuel business growth, supercharge brand visibility, and drive client success across Africa.',
+    image: 'https://businessafricaonline.com/wp-content/uploads/2024/11/IMG_8168-Edit-scaled-e1732958940458-1000x600.jpg',
+    url: 'https://businessafricaonline.com/creativity-data-and-innovation-tutu-adetunmbis-vision-for-africas-marketing-future-with-stamfordham/',
+    kind: 'article',
+  },
+  {
+    outlet: 'Exquisite Magazine',
+    title: 'Lead Strategist and Founder of The Stamfordham Brand',
+    excerpt: 'On being a trailblazing force in the dynamic realm of digital marketing and technology — and the work of spearheading a creative revolution.',
+    image: 'https://i0.wp.com/exquisitemag.com/wp-content/uploads/2023/09/F06CB3F4-B298-47E7-B6DD-F991E8E39D24.png',
+    url: 'https://exquisitemag.com/tutu-adetumbi-lead-strategist-and-founder-of-stamfordham-brand/',
+    kind: 'article',
+  },
+  {
+    outlet: 'YouTube',
+    title: 'A Lucrative Career In Marketing In Nigeria Requires Flexibility',
+    excerpt: 'On building a marketing career in Nigeria — flexibility, structure, and what young creatives often miss.',
+    image: 'https://i.ytimg.com/vi/03HuCgq8gqU/hqdefault.jpg',
+    url: 'https://www.youtube.com/watch?v=03HuCgq8gqU',
+    kind: 'video',
+  },
+];
+
 // Fetch latest YouTube videos at build time (skip Shorts)
 const YT_CHANNEL_ID = 'UCbpCskTqAxoU-U1Z0EaPyWA';
 type Video = { id: string; title: string };
@@ -128,9 +188,34 @@ try {
     </div>
   </section>
 
-  <!-- IV. TDPF -->
-  <section class="home-section" id="tdpf">
+  <!-- IV. PRESS -->
+  <section class="home-section" id="press">
     <div class="section-numeral">iv.</div>
+    <div>
+      <h2>Press.</h2>
+      <p>Conversations, interviews, and features across African business and creative media.</p>
+      <div class="press-grid">
+        {press.map((p) => (
+          <a class="press-card" href={p.url} target="_blank" rel="noopener">
+            <div class="press-thumb">
+              <img src={p.image} alt={p.title} loading="lazy" />
+              {p.kind === 'video' && <div class="press-kind-badge">▶ Watch</div>}
+            </div>
+            <div class="press-body">
+              <div class="press-outlet">{p.outlet}</div>
+              <div class="press-title">{p.title}</div>
+              <div class="press-excerpt">{p.excerpt}</div>
+              <div class="press-cta">Read →</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- V. TDPF -->
+  <section class="home-section" id="tdpf">
+    <div class="section-numeral">v.</div>
     <div>
       <h2>The Digital Professional Fair.</h2>
       <p>A landmark gathering I convene to connect talent, tools, and capital — accelerating Africa's participation in the global digital workforce.</p>
@@ -138,9 +223,9 @@ try {
     </div>
   </section>
 
-  <!-- V. CHANNELS -->
+  <!-- VI. CHANNELS -->
   <section class="home-section" id="channels">
-    <div class="section-numeral">v.</div>
+    <div class="section-numeral">vi.</div>
     <div>
       <h2>Find me everywhere.</h2>
       <p>I build in public across every platform. The memos go deepest. Everything else is the journey in real time.</p>
@@ -173,9 +258,9 @@ try {
     </div>
   </section>
 
-  <!-- VI. SUBSCRIBE -->
+  <!-- VII. SUBSCRIBE -->
   <section class="home-section" id="subscribe">
-    <div class="section-numeral">vi.</div>
+    <div class="section-numeral">vii.</div>
     <div>
       <h2>Subscribe to my memos.</h2>
       <p>Every Saturday I share what I am learning, building, and noticing as I live, work, and build. Free. Unfiltered. From the inside.</p>

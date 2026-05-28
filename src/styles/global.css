@@ -466,6 +466,32 @@ footer.site-footer {
   margin: 0 auto;
   padding: 10rem 2rem 6rem;
 }
+.memos-page--with-hero {
+  padding-top: 3rem; /* hero already provides top spacing */
+}
+.memos-page-subscribe {
+  margin-top: 5rem;
+  padding: 3rem 2rem;
+  background: var(--off-white);
+  border-radius: 12px;
+  text-align: center;
+}
+.memos-page-subscribe h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--black);
+  margin-bottom: 0.6rem;
+  letter-spacing: -0.01em;
+}
+.memos-page-subscribe p {
+  font-size: 0.95rem;
+  color: var(--grey);
+  margin-bottom: 1.5rem;
+}
+.memos-page-subscribe .subscribe-form { margin: 0 auto 0.6rem; }
+
+/* hero variant on /memos — single word title, no nowrap constraint */
+.hero--memos h1 { white-space: normal; font-size: clamp(2.6rem, 5vw, 4rem); }
 .memos-page-header { margin-bottom: 4rem; }
 .memos-page-header h1 {
   font-size: clamp(2.4rem, 5vw, 3.4rem);

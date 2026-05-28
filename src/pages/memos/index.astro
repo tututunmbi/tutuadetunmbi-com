@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import Subscribe from '../../components/Subscribe.astro';
 import { getCollection } from 'astro:content';
 
 const memos = (await getCollection('memos', ({ data }) => !data.draft))
@@ -27,14 +28,23 @@ function roman(n: number): string {
   description="Every memo Tutu has published — on work, identity, ownership, and ideology."
   current="memos"
 >
-  <main class="memos-page">
-    <header class="memos-page-header">
+  <!-- HERO with book illustration -->
+  <div class="hero hero--memos">
+    <div class="hero-crest">
+      <img src="/book.png" alt="Tutu Adetunmbi's Journal" />
+    </div>
+    <div class="hero-content">
+      <div class="hero-label">From the corporate creative oracle</div>
       <h1>Memos.</h1>
-      <p>Every Saturday I share what I am learning, building, and noticing as I live, work, and build. Free. Unfiltered. From the inside.</p>
-    </header>
+      <p>Every Saturday I share what I am learning, building, and noticing as I live, work, and build. Free. Unfiltered. From the inside. Drop your email — the next memo lands straight in your inbox.</p>
+      <Subscribe />
+    </div>
+  </div>
 
+  <!-- LIST -->
+  <main class="memos-page memos-page--with-hero">
     {memos.length === 0 ? (
-      <p style="color: var(--grey);">No memos yet. The next one drops Saturday.</p>
+      <p style="color: var(--grey); text-align: center;">No memos yet. The next one drops Saturday.</p>
     ) : (
       <ol class="memos-list">
         {memos.map((m, i) => (
@@ -51,5 +61,12 @@ function roman(n: number): string {
         ))}
       </ol>
     )}
+
+    <!-- Bottom subscribe block -->
+    <div class="memos-page-subscribe">
+      <h3>Get the next memo first.</h3>
+      <p>Saturdays. Free. Direct to your inbox.</p>
+      <Subscribe />
+    </div>
   </main>
 </Layout>

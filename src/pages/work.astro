@@ -1,0 +1,150 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+type Consultation = {
+  title: string;
+  calSlug: string; // path after cal.com/tutuadetunmbi/
+  price: string;
+  duration: string;
+  description: string;
+  idealFor?: string;
+};
+
+const consultations: Consultation[] = [
+  {
+    title: 'CorpCi Discovery Consultation',
+    calSlug: 'corpci-discovery-consultation',
+    price: '$100 / ₦150,000',
+    duration: '90 min',
+    description: 'A diagnostic session for founders and creative businesses. We diagnose your primary constraint, map where your business is structurally, and deliver a clear recommendation on what needs to happen next and in what order. Written diagnosis delivered within 48 hours.',
+    idealFor: 'Founders ready to untangle their identity from their infrastructure.',
+  },
+  {
+    title: 'Brand Strategy & Development',
+    calSlug: 'brand-strategy-development',
+    price: '₦300,000',
+    duration: '120 min',
+    description: 'Create a compelling brand strategy that aligns with your business goals and audience. We dive deep into vision, messaging, positioning, and overall strategy so you stand out in your market.',
+    idealFor: 'Business owners redefining a brand. Startups launching. Established brands needing a strategic refresh.',
+  },
+  {
+    title: 'Personal Branding Session',
+    calSlug: 'personalbrandingsession',
+    price: '₦250,000',
+    duration: '120 min',
+    description: "Position yourself as a thought leader, public figure, or influencer in your industry. We outline strategies for showcasing your expertise and building a memorable personal brand.",
+    idealFor: 'Professionals seeking advancement. Thought leaders. Anyone establishing a strong personal identity.',
+  },
+  {
+    title: 'Personal Development Guide & Coaching',
+    calSlug: 'personal-development-guide-coaching-150-000',
+    price: '₦150,000',
+    duration: '180 min',
+    description: 'A focused coaching session designed to help you achieve clarity, set meaningful goals, and navigate life’s challenges. Personalized goal-setting, action plans for growth, and sustainable tools.',
+    idealFor: 'Individuals seeking a clearer vision. Professionals chasing work-life balance.',
+  },
+  {
+    title: 'Business Systems & Structure',
+    calSlug: 'systems-structure-coaching',
+    price: '₦100,000',
+    duration: '90 min',
+    description: 'Streamline your business operations with expert guidance on building effective systems and structures. Process design for productivity, scalability, and efficiency.',
+    idealFor: 'Entrepreneurs scaling. Small business owners improving efficiency. Teams seeking structured workflows.',
+  },
+  {
+    title: '"Pick My Brain"',
+    calSlug: 'pickmybrain',
+    price: '₦70,000',
+    duration: '60 min',
+    description: 'An open-ended session — pick my brain on anything within my expertise. Digital & creative economy, marketing, branding, innovation, entrepreneurship in the digital age, or business systems.',
+    idealFor: 'Entrepreneurs needing quick guidance. Professionals seeking clarity on a specific challenge.',
+  },
+];
+---
+<Layout
+  title="Work with me — Tutu Adetunmbi"
+  description="Six one-on-one consultation paths for founders, operators, and professionals. Book a session directly."
+  current="work"
+>
+  <!-- HERO -->
+  <div class="hero hero--memos">
+    <div class="hero-crest">
+      <img src="/book.png" alt="Tutu Adetunmbi's Journal" />
+    </div>
+    <div class="hero-content">
+      <div class="hero-label">One-on-one with Tutu</div>
+      <h1>Work with me.</h1>
+      <p>Six paths into my brain — pick the shape that fits where you are. Diagnostic, branding, strategy, systems, growth, or a no-agenda hour. Each one ends with something you can actually do on Monday.</p>
+      <a href="#consultations" class="memos-cta" style="display:inline-block;">See all six →</a>
+    </div>
+  </div>
+
+  <!-- CONSULTATIONS -->
+  <main class="memos-page memos-page--with-hero" id="consultations">
+    <div class="work-grid">
+      {consultations.map((c) => (
+        <article class="work-card">
+          <div class="work-card-head">
+            <h3>{c.title}</h3>
+            <div class="work-meta">
+              <span class="work-price">{c.price}</span>
+              <span class="work-dot">·</span>
+              <span class="work-duration">{c.duration}</span>
+            </div>
+          </div>
+          <p class="work-desc">{c.description}</p>
+          {c.idealFor && <p class="work-ideal"><strong>Ideal for:</strong> {c.idealFor}</p>}
+          <button
+            type="button"
+            class="work-book-btn"
+            data-cal-namespace=""
+            data-cal-link={`tutuadetunmbi/${c.calSlug}`}
+            data-cal-config='{"layout":"month_view"}'
+          >
+            Book this session →
+          </button>
+        </article>
+      ))}
+    </div>
+
+    <div class="memos-page-subscribe" style="margin-top: 6rem;">
+      <h3>Not ready to book?</h3>
+      <p>Subscribe to the memos. Saturdays. Free. The work I do for clients, distilled.</p>
+      <form class="subscribe-form" action="https://buttondown.com/api/emails/embed-subscribe/adetunmbi" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.com/adetunmbi', 'popupwindow')">
+        <input type="email" name="email" placeholder="Your email" required />
+        <button type="submit">Subscribe</button>
+      </form>
+      <span class="subscribe-note">Join the builders. No spam. Unsubscribe anytime.</span>
+    </div>
+  </main>
+
+  <!-- Cal.com embed script — initializes popup booking on data-cal-link buttons -->
+  <script is:inline>
+    (function (C, A, L) {
+      let p = function (a, ar) { a.q.push(ar); };
+      let d = C.document;
+      C.Cal = C.Cal || function () {
+        let cal = C.Cal; let ar = arguments;
+        if (!cal.loaded) {
+          cal.ns = {}; cal.q = cal.q || [];
+          d.head.appendChild(d.createElement("script")).src = A;
+          cal.loaded = true;
+        }
+        if (ar[0] === L) {
+          const api = function () { p(api, arguments); };
+          const namespace = ar[1];
+          api.q = api.q || [];
+          if (typeof namespace === "string") {
+            cal.ns[namespace] = cal.ns[namespace] || api;
+            p(cal.ns[namespace], ar);
+            p(cal, ["initNamespace", namespace]);
+          } else { p(cal, ar); }
+          return;
+        }
+        p(cal, ar);
+      };
+    })(window, "https://app.cal.com/embed/embed.js", "Cal");
+    Cal("init", { origin: "https://cal.com" });
+    Cal("ui", { theme: "light", styles: { branding: { brandColor: "#0a0a0a" } }, hideEventTypeDetails: false });
+  </script>
+</Layout>

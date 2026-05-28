@@ -683,6 +683,89 @@ footer.site-footer {
 }
 .home-section a.section-cta:hover { opacity: 0.6; }
 
+/* /work consultations grid */
+.work-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.8rem;
+  margin-top: 1rem;
+}
+.work-card {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 2rem 2rem;
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 10px;
+  background: var(--white);
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+.work-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.07);
+  border-color: rgba(0,0,0,0.16);
+}
+.work-card-head {
+  margin-bottom: 1.2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.work-card h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--black);
+  letter-spacing: -0.01em;
+  margin-bottom: 0.6rem;
+  line-height: 1.3;
+}
+.work-meta {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+  font-size: 0.85rem;
+}
+.work-price {
+  font-weight: 700;
+  color: var(--black);
+  letter-spacing: -0.01em;
+}
+.work-dot { color: var(--lighter); }
+.work-duration {
+  color: var(--light-grey);
+  font-weight: 500;
+}
+.work-desc {
+  font-size: 0.92rem;
+  color: var(--grey);
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+.work-ideal {
+  font-size: 0.82rem;
+  color: var(--grey);
+  line-height: 1.6;
+  margin-bottom: 1.4rem;
+  padding-top: 0.4rem;
+}
+.work-ideal strong {
+  font-weight: 600;
+  color: var(--black);
+}
+.work-book-btn {
+  margin-top: auto;
+  padding: 0.85rem 1.4rem;
+  background: var(--black);
+  color: var(--white);
+  border: 1.5px solid var(--black);
+  border-radius: 6px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+.work-book-btn:hover { background: #2a2a2a; }
+.work-book-btn:active { transform: scale(0.98); }
+
 /* press cards grid */
 .press-grid {
   display: grid;

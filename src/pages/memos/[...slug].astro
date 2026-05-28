@@ -1,0 +1,60 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Subscribe from '../../components/Subscribe.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const memos = await getCollection('memos', ({ data }) => !data.draft);
+  return memos.map((memo) => ({
+    params: { slug: memo.id },
+    props: { memo },
+  }));
+}
+
+const { memo } = Astro.props;
+const { Content } = await render(memo);
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<Layout
+  title={`${memo.data.title} — Tutu Adetunmbi`}
+  description={memo.data.description}
+  current="memos"
+  ogImage={memo.data.cover ?? '/tutu-about.png'}
+>
+  <article class="memo-page">
+    <header class="memo-header">
+      <div class="eyebrow">Memo</div>
+      <h1>{memo.data.title}</h1>
+      <div class="memo-meta">
+        <span>{formatDate(memo.data.pubDate)}</span>
+        {memo.data.substackUrl && (
+          <>
+            <span class="dot">·</span>
+            <a href={memo.data.substackUrl} target="_blank" rel="noopener" style="color: var(--light-grey); text-decoration: none; border-bottom: 1px solid var(--lighter); padding-bottom: 1px;">Read on Substack</a>
+          </>
+        )}
+      </div>
+    </header>
+
+    {memo.data.cover && (
+      <img class="memo-cover-img" src={memo.data.cover} alt={memo.data.coverAlt ?? memo.data.title} />
+    )}
+
+    <div class="memo-body">
+      <Content />
+    </div>
+
+    <div class="memo-footer">
+      <a href="/memos">&larr; All memos</a>
+      <a href="/#about">About Tutu</a>
+    </div>
+
+    <div class="memo-subscribe-block">
+      <h3>Get the next memo first.</h3>
+      <p>Saturdays. Direct to your inbox. Free.</p>
+      <Subscribe note="Join the builders. No spam. Unsubscribe anytime." />
+    </div>
+  </article>
+</Layout>

@@ -1,0 +1,19 @@
+---
+// Subscribe form — posts to Buttondown (replace BUTTONDOWN_USERNAME below).
+// To migrate later: swap the form action to a different provider.
+// Buttondown signup: https://buttondown.com
+const BUTTONDOWN_USERNAME = 'adetunmbi';
+const action = `https://buttondown.com/api/emails/embed-subscribe/${BUTTONDOWN_USERNAME}`;
+const { note = 'Join the builders. No spam. Unsubscribe anytime.' } = Astro.props;
+---
+<form
+  class="subscribe-form"
+  action={action}
+  method="post"
+  target="popupwindow"
+  onsubmit={`window.open('https://buttondown.com/${BUTTONDOWN_USERNAME}', 'popupwindow')`}
+>
+  <input type="email" name="email" placeholder="Your email" required />
+  <button type="submit">Subscribe</button>
+</form>
+<span class="subscribe-note">{note}</span>

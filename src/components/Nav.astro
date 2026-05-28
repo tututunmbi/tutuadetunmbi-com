@@ -1,0 +1,26 @@
+---
+const { current } = Astro.props;
+---
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/" class="nav-name">Tutu Adetunmbi</a>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="nav-links" id="nav-links">
+      <a href="/memos" aria-current={current === 'memos' ? 'page' : undefined}>Memos</a>
+      <a href="/#watch">Watch</a>
+      <a href="/#about">About</a>
+      <a href="https://thedigitalprofessionalfair.com" target="_blank" rel="noopener">TDPF</a>
+      <a href="/#channels">Channels</a>
+    </div>
+  </div>
+</nav>
+
+<script>
+  const toggle = document.getElementById('nav-toggle');
+  const links = document.getElementById('nav-links');
+  toggle?.addEventListener('click', () => {
+    links?.classList.toggle('open');
+  });
+</script>

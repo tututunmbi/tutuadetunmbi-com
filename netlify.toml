@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Pretty URLs / no trailing slashes on memo pages
+[[redirects]]
+  from = "/memos/*/index.html"
+  to = "/memos/:splat/"
+  status = 301

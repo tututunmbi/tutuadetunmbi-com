@@ -1,0 +1,52 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const memos = (await getCollection('memos', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// roman numeral lowercase, like Kennedy's site
+function roman(n: number): string {
+  const map: Array<[number, string]> = [
+    [1000, 'm'], [900, 'cm'], [500, 'd'], [400, 'cd'],
+    [100, 'c'], [90, 'xc'], [50, 'l'], [40, 'xl'],
+    [10, 'x'], [9, 'ix'], [5, 'v'], [4, 'iv'], [1, 'i'],
+  ];
+  let out = '';
+  for (const [value, sym] of map) {
+    while (n >= value) { out += sym; n -= value; }
+  }
+  return out;
+}
+---
+<Layout
+  title="Memos — Tutu Adetunmbi"
+  description="Every memo Tutu has published — on work, identity, ownership, and ideology."
+  current="memos"
+>
+  <main class="memos-page">
+    <header class="memos-page-header">
+      <h1>Memos.</h1>
+      <p>Every Saturday I share what I am learning, building, and noticing as I live, work, and build. Free. Unfiltered. From the inside.</p>
+    </header>
+
+    {memos.length === 0 ? (
+      <p style="color: var(--grey);">No memos yet. The next one drops Saturday.</p>
+    ) : (
+      <ol class="memos-list">
+        {memos.map((m, i) => (
+          <li>
+            <a href={`/memos/${m.id}/`}>
+              <span class="roman">{roman(i + 1)}.</span>
+              <span class="memo-row-title">{m.data.title}</span>
+              <span class="memo-row-date">{formatDate(m.data.pubDate)}</span>
+            </a>
+          </li>
+        ))}
+      </ol>
+    )}
+  </main>
+</Layout>

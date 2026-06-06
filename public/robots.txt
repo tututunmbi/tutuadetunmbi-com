@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tutuadetunmbi.com/sitemap-index.xml

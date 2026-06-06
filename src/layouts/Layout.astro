@@ -11,29 +11,142 @@ interface Props {
 }
 
 const {
-  title = 'Tutu Adetunmbi | Build, or be built upon.',
-  description = 'Memos on work, identity, ownership, and ideology. From the woman building corporate creative institutions.',
+  title = 'Tutu Adetunmbi | Founder of The Stamfordham, CorpCi International & Digital Professional Fair',
+  description = 'Tutu Adetunmbi. Founder & Principal Consultant of The Stamfordham, Founder of CorpCi International, and Convener of the Digital Professional Fair. Memos on work, identity, ownership, and ideology in Africa\'s creative and digital economy.',
   current,
   ogImage = '/tutu-about.png',
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+const isHome = Astro.url.pathname === '/' || Astro.url.pathname === '';
+
+// JSON-LD structured data. Person + Organizations + WebSite.
+// This is what Google uses to build the entity graph for "Tutu Adetunmbi" and "The Stamfordham".
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  '@id': 'https://tutuadetunmbi.com/#person',
+  name: 'Tutu Adetunmbi',
+  alternateName: 'Tutu',
+  url: 'https://tutuadetunmbi.com/',
+  image: 'https://tutuadetunmbi.com/tutu-about.png',
+  jobTitle: 'Founder & Principal Consultant',
+  description: 'Creative Industrialist and Strategic Operator. Founder & Principal Consultant of The Stamfordham, Founder of CorpCi International, and Convener of the Digital Professional Fair.',
+  worksFor: [
+    { '@id': 'https://thestamfordham.com/#org' },
+    { '@id': 'https://tutuadetunmbi.com/#corpci' },
+  ],
+  email: 'mailto:info@tutuadetunmbi.com',
+  sameAs: [
+    'https://thestamfordham.com/',
+    'https://thedigitalprofessionalfair.com/',
+    'https://www.youtube.com/@Tutu.Adetunmbi',
+    'https://www.instagram.com/tutu.adetunmbi',
+    'https://www.tiktok.com/@tutu.adetunmbi',
+    'https://www.linkedin.com/in/tutuadetunmbi',
+    'https://x.com/TutuAdetunmbi',
+    'https://www.threads.com/@tutu.adetunmbi',
+    'https://tutuadetunmbi.substack.com/',
+  ],
+  knowsAbout: [
+    'Creative economy',
+    'Brand strategy',
+    'Corporate creative institutions',
+    'African digital workforce',
+    'Personal branding',
+    'Business systems and structure',
+    'Strategic consulting',
+  ],
+  nationality: { '@type': 'Country', name: 'Nigeria' },
+};
+
+const stamfordhamSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': 'https://thestamfordham.com/#org',
+  name: 'The Stamfordham',
+  url: 'https://thestamfordham.com/',
+  description: 'A strategic consultancy that acts as the custodian of a founder\'s vision. Integrated marketing communications across Africa.',
+  founder: { '@id': 'https://tutuadetunmbi.com/#person' },
+  sameAs: ['https://tutuadetunmbi.com/'],
+};
+
+const corpciSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': 'https://tutuadetunmbi.com/#corpci',
+  name: 'CorpCi International',
+  description: 'A boutique infrastructure firm designed to solve the structural deficit in the creative economy. Corporate governance, systems, and institutional blueprints that allow creative enterprises to survive the founder.',
+  founder: { '@id': 'https://tutuadetunmbi.com/#person' },
+};
+
+const tdpfSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': 'https://thedigitalprofessionalfair.com/#org',
+  name: 'The Digital Professional Fair',
+  alternateName: 'TDPF',
+  url: 'https://thedigitalprofessionalfair.com/',
+  description: 'A landmark gathering convened to connect talent, tools, and capital, accelerating Africa\'s participation in the global digital workforce.',
+  organizer: { '@id': 'https://tutuadetunmbi.com/#person' },
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': 'https://tutuadetunmbi.com/#website',
+  url: 'https://tutuadetunmbi.com/',
+  name: 'Tutu Adetunmbi',
+  description: 'Memos on work, identity, ownership, and ideology. From the woman building corporate creative institutions.',
+  publisher: { '@id': 'https://tutuadetunmbi.com/#person' },
+  inLanguage: 'en',
+};
+
+const graph = {
+  '@context': 'https://schema.org',
+  '@graph': [personSchema, stamfordhamSchema, corpciSchema, tdpfSchema, websiteSchema],
+};
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#ffffff" />
+  <meta name="author" content="Tutu Adetunmbi" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="Tutu Adetunmbi" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:image" content={new URL(ogImage, Astro.site).toString()} />
   <meta property="og:url" content={canonical} />
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content={isHome ? 'website' : 'article'} />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@TutuAdetunmbi" />
+  <meta name="twitter:creator" content="@TutuAdetunmbi" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={new URL(ogImage, Astro.site).toString()} />
+
+  <!-- Structured data: Person + Organizations + WebSite -->
+  {isHome && (
+    <script type="application/ld+json" set:html={JSON.stringify(graph)} />
+  )}
+
+  <!-- RSS hint for memo feed -->
+  <link rel="alternate" type="application/rss+xml" title="Tutu Adetunmbi · Memos" href="/rss.xml" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

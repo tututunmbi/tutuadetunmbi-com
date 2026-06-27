@@ -1,0 +1,42 @@
+backend:
+  name: git-gateway
+  branch: main
+  commit_messages:
+    create: 'Memo: {{slug}}'
+    update: 'Memo edit: {{slug}}'
+    delete: 'Memo delete: {{slug}}'
+    uploadMedia: 'Image: {{path}}'
+    deleteMedia: 'Image delete: {{path}}'
+
+# Site URL for the "Preview" link inside the editor
+site_url: https://tutuadetunmbi.com
+display_url: https://tutuadetunmbi.com
+logo_url: https://tutuadetunmbi.com/favicon.svg
+
+# Images and uploaded files go here
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+# Markdown editor settings
+editor:
+  preview: false
+
+collections:
+  - name: "memos"
+    label: "Memos"
+    label_singular: "Memo"
+    folder: "src/content/memos"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}} — {{pubDate}}"
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "description", label: "Description / one-line summary", widget: "string", required: false }
+      - { name: "pubDate", label: "Publish date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, picker_utc: false }
+      - { name: "cover", label: "Cover image URL", widget: "string", required: false, hint: "Full URL to a cover image (paste a Substack image URL or an Instagram image URL)." }
+      - { name: "coverAlt", label: "Cover image alt text", widget: "string", required: false, hint: "Short description of the cover image for accessibility and SEO." }
+      - { name: "draft", label: "Draft (hide from site)", widget: "boolean", default: false, required: false }
+      - { name: "substackUrl", label: "Original Substack URL", widget: "string", required: false, hint: "Only fill this in for memos originally published on Substack." }
+      - { name: "body", label: "Memo body", widget: "markdown" }

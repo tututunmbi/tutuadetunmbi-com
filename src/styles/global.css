@@ -1068,6 +1068,55 @@ footer.site-footer {
 .memo-body pre { background: var(--off-white); padding: 1.2rem; border-radius: 8px; overflow-x: auto; margin: 1.5rem 0; }
 .memo-body pre code { background: transparent; padding: 0; }
 
+.memo-share {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(0,0,0,0.08);
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+.memo-share-label {
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--light-grey);
+  font-weight: 600;
+}
+.memo-share-links {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+.memo-share-links a,
+.memo-share-copy {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.55rem 0.7rem;
+  border-radius: 8px;
+  background: var(--off-white, #f6f6f6);
+  color: var(--dark, #2a2a2a);
+  text-decoration: none;
+  border: 1px solid transparent;
+  font-size: 0.82rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, transform 0.1s;
+}
+.memo-share-links a:hover,
+.memo-share-copy:hover {
+  background: var(--black, #0a0a0a);
+  color: #ffffff;
+}
+.memo-share-links a:active,
+.memo-share-copy:active { transform: translateY(1px); }
+.memo-share-copy { font: inherit; line-height: 1; }
+.memo-share-copy-label { font-size: 0.82rem; font-weight: 500; }
+
 .memo-footer {
   margin-top: 5rem;
   padding-top: 2.5rem;

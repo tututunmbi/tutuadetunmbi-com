@@ -1,0 +1,45 @@
+name: Sync Substack posts
+
+on:
+  schedule:
+    # Every 6 hours — Substack posts appear within ~6h + Netlify build time
+    - cron: '17 */6 * * *'
+  workflow_dispatch: {}  # Manual trigger button in the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-substack
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Sync new Substack posts
+        run: npm run sync
+
+      - name: Commit and push if changed
+        run: |
+          if [ -n "$(git status --porcelain src/content/memos)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add src/content/memos
+            git commit -m "chore: sync new memo(s) from Substack"
+            git push
+            echo "Pushed new memo(s)."
+          else
+            echo "No new memos on Substack — nothing to commit."
+          fi
